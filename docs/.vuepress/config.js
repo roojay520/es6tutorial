@@ -1,4 +1,5 @@
 module.exports = {
+  base: '/es6tutorial/',
   title: 'ECMAScript 6 入门',
   description: '《ECMAScript 6 入门教程》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性。',
   themeConfig: {
